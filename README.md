@@ -276,11 +276,11 @@ Add screenshots of the actual running application to the repository and link the
 | Admin dashboard | `screenshots/admin-dashboard.png` |
 
 Then embed them in this section using Markdown:
-
+<!--
 ```md
 ![BDMS Home Page](screenshots/home.png)
 ```
-
+-->
 ---
 
 ## 🔮 Future Enhancements
@@ -305,4 +305,4 @@ Then embed them in this section using Markdown:
 
 ## 📄 License
 
-This project is available for educational purposes. If you intend to reuse or distribute it, add a `LICENSE` file to the repository specifying the license terms.
+This project is available for educational purposes.<!-- If you intend to reuse or distribute it, add a `LICENSE` file to the repository specifying the license terms.-->
