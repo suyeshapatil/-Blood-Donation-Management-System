@@ -262,7 +262,7 @@ Import this file into Postman to test the available APIs. Authenticated endpoint
 ```
 
 ---
-
+<!--
 ## 📸 Screenshots
 
 Add screenshots of the actual running application to the repository and link them here. For example, create a `screenshots/` folder in the repository and add:
@@ -276,7 +276,7 @@ Add screenshots of the actual running application to the repository and link the
 | Admin dashboard | `screenshots/admin-dashboard.png` |
 
 Then embed them in this section using Markdown:
-<!--
+
 ```md
 ![BDMS Home Page](screenshots/home.png)
 ```
